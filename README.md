@@ -5,11 +5,17 @@ El proyecto se ha desarrollado en el canal de YouTube: https://www.youtube.com/c
 Puedes ver toda la serie de 131 episodios aquí: https://www.youtube.com/playlist?list=PLN9W6BC54TJJr3erMptodGOQFX7gWfKTM
 
 Redes sociales:
+
 Mi web: http://javadevone.com
+
 Patreon: https://www.patreon.com/javadevone
+
 Facebook: https://www.facebook.com/java.devone/
+
 Twitter: https://twitter.com/javadevone
+
 Google+: https://plus.google.com/+JavaDevOne
+
 
 El juego no está completo pero incluye todo lo necesario para construir tu propio juego gracias a que ya incluye
 un montón de funcionalidad.
