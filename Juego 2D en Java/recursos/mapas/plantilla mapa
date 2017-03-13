@@ -1,0 +1,49 @@
+11 //ancho
+*
+8 //alto
+*
+1 //hojas de sprites utilizadas. Ejemplo: 1,3,10
+*
+01:1-1 //hierba sencilla
+#
+02:1-3 //hierba sombreada por la derecha
+#
+03:1-2 //hierba sombreada por arriba
+#
+04:1-4 //hierba sombreada por la izquierda
+#
+05:1-0 //hierba frontal
+#
+06:1-12 //hierba trasera
+#
+07:1-5 //camino de piedra
+#
+08:1-9 //camino de piedra sombreado por la derecha
+#
+09:1-7 //tierra expuesta
+*
+00000000000 //mapa de colisiones
+00000000000
+00111000000
+00111001110
+00111001110
+00000001110
+00000000000
+00000000000
+*
+01 01 01 01 01 01 01 01 01 07 01 //disposicion de los sprites
+01 01 01 01 01 01 01 01 01 07 01
+01 02 06 06 06 04 07 07 07 07 01
+01 02 01 01 01 04 07 06 06 06 04
+01 02 09 09 09 04 07 01 01 01 04
+01 01 03 03 03 01 07 09 09 09 04
+01 01 01 07 07 07 07 03 03 03 01
+01 01 01 07 01 01 01 01 01 01 01
+*
+0-14 //punto de aparicion
+*
+4-5-02.adm //punto de salida del mapa
+*
+3,6:1-1/2-1 // x,y del mapa : objeto - cantidad / objeto - cantidad / etc.
+#
+2,6:1-1/2-1 // x,y del mapa : objeto - cantidad / objeto - cantidad / etc.
